@@ -1,5 +1,5 @@
 package array
-c
+
 /*func main() {
 
 	arr := []int{54, 43, 6, 23, 12}
